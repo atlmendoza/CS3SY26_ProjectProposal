@@ -2,12 +2,11 @@
 
 
 ## Project Proposal Template:
-cvbbbc
-### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    :
-### Date (Proposal Date)  : Nov 5, 2026
-fdfhdfhfshsdhfhhtrthdfh
+### Project Title or Name of the Application	: 
+### Section			   	      : 9-Cesium 2030
+### Group Members			    : Cs04 - CASISON, Mary Thiadelle | Cs05 - CASTRO, Zoe Asiel | Cs30 - VERGARA, Jaime
+### Date (Proposal Date)  : Nov 13, 2026
+
 ### Project Description:
 
 - A brief summary of the project description and the need for it.
