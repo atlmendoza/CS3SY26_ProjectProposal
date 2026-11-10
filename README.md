@@ -5,7 +5,7 @@
 cvbbbc
 ### Project Title or Name of the Application	:
 ### Section			   	      :
-### Group Members			    :
+### Group Members			    : Casison, Castro, Vergara
 ### Date (Proposal Date)  : Nov 5, 2026
 fdfhdfhfshsdhfhhtrthdfh
 ### Project Description:
