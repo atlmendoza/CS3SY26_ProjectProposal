@@ -80,9 +80,9 @@ Methods:
  - delete destination
 
 
-- As previously stated, the specific target audience for our application will be younger people (teens and young adults) that are only beginning to learn how to handle large amounts of money. They need a way to learn these essential budgeting skills without an app that will overwhelm them with loads of different features or advanced concepts. Our aim for our project is to make budgeting as simple as possible, so it can stand out from other budgeting apps as the most straightforward and best for a younger demographic.
+As previously stated, the specific target audience for our application will be younger people (teens and young adults) that are only beginning to learn how to handle large amounts of money. They need a way to learn these essential budgeting skills without an app that will overwhelm them with loads of different features or advanced concepts. Our aim for our project is to make budgeting as simple as possible, so it can stand out from other budgeting apps as the most straightforward and best for a younger demographic.
 
-- The description is then followed by the class diagram, depicting clearly what was described.
+The description is then followed by the class diagram, depicting clearly what was described.
 
 **Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
 
