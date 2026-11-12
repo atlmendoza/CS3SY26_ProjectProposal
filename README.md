@@ -86,6 +86,9 @@ The description is then followed by the class diagram, depicting clearly what wa
 
 **Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
 
+<img width="1544" height="886" alt="image" src="https://github.com/user-attachments/assets/2420c881-3b32-4b3b-8457-4ed13382c1fd" />
+
+
 ![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
 
 ### Goals:
