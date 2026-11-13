@@ -88,15 +88,25 @@ The description is then followed by the class diagram, depicting clearly what wa
 
 
 
-![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
+<img width="1544" height="918" alt="image" src="https://github.com/user-attachments/assets/c8ec4e7b-62e7-4dfd-b41b-67c02d9bf971" />
+
 
 ### Goals:
 
 Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
 
-- Objective 1: Provide a simple, clean, and user-friendly way to manage personal funds and budgeting to an identified target demographic of teens and young adults that want to effectively handle money
-- Objective 2: Train ourselves in the principles of collaborative coding and object-oriented programming
-- Objective 3: Demonstrate how Computer Science 3 concepts and knowledge can solve real-life, everyday problems 
+### Outcomes / Goals: 
+- Goal 1: Provide a simple, clean, and user-friendly way to manage personal funds and budgeting to an identified target demographic of teens and young adults that want to effectively handle money
+- Goal 2: Train ourselves in the principles of collaborative coding and object-oriented programming
+- Goal 3: Demonstrate how Computer Science 3 concepts and knowledge can solve real-life, everyday problems
+
+In order to meet the standards we have established for ourselves in the form of these goals, we plan to follow this general framework of objectives / milestones to facilitate the development of our project: 
+1. Finalize a list of features
+2. Begin planning the code and program, delegate parts of the code for each member to work on
+3. Over the course of a few weeks, develop different parts of the program independently
+4. Using our GitHub repository, combine everything we have worked on into one cohesive program
+5. Begin troubleshooting and testing the program extensively
+6. Finalize and release the application for the public to use
 
 [Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
 
